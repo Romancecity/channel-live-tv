@@ -1,11 +1,11 @@
 ─────────── Bangla ───────────
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" tvg-name="IreenTV Promo",IreenTV Promo
-https://ireentvlive.pages.dev/promo/master.m3u8
+#EXTINF:-1 tvg-id="IreenTV Movies" tvg-logo="https://i.ibb.co.com/jv4ffV0Z/ireen-TV-Movies.png" group-title="Movies", IreenTV Movies 1 HD
+https://cinevault-tv.pages.dev/?mode=player&channel=ireentvmovies&fullscreen=1
 
 ─────────── Movies ───────────
 
-#EXTINF:-1 tvg-id="IreenTV Movies" tvg-logo="https://i.ibb.co.com/jv4ffV0Z/ireen-TV-Movies.png" group-title="Movies", IreenTV Movies
+#EXTINF:-1 tvg-id="IreenTV Movies" tvg-logo="https://i.ibb.co.com/jv4ffV0Z/ireen-TV-Movies.png" group-title="Movies", IreenTV Movies 2 HD
 https://cinevault-tv.pages.dev/?mode=player&channel=ireentvmovies&fullscreen=1
 
  ─────────── Music ───────────
